@@ -1,0 +1,12 @@
+[submodule "firmware/bootloader"]
+	path = firmware/bootloader
+	url = https://github.com/moeffman/bootloader.git
+[submodule "firmware/blinky"]
+	path = firmware/blinky
+	url = https://github.com/moeffman/blinky.git
+[submodule "flash"]
+	path = flash
+	url = https://github.com/moeffman/flash.git
+[submodule "libs/stm32g071rb"]
+	path = libs/stm32g071rb
+	url = git@github.com:moeffman/stm32g071rb.git
